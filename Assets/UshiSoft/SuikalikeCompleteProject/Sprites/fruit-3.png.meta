@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dbd5225968f9fc7439f4582b539d5c5b
+guid: d24108c53ebec45aa8245f1db3013bea
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -154,10 +154,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 298442
-  packageName: Suikalike Complete Project
-  packageVersion: 1.3.0
-  assetPath: Assets/UshiSoft/SuikalikeCompleteProject/Sprites/fruit-3.png
-  uploadId: 727163
