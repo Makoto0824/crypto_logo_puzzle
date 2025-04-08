@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bbff3cdc90464d54cbd0889d074f95b6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298442
+  packageName: Suikalike Complete Project
+  packageVersion: 1.3.0
+  assetPath: Assets/UshiSoft/SuikalikeCompleteProject/Shaders/DashedLineVertical.shader
+  uploadId: 727163

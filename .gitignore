@@ -1,0 +1,25 @@
+# Unityのキャッシュや一時ファイルを除外
+Library/
+Logs/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# Unity Package Managerのキャッシュを除外
+Packages/PackageCache/
+
+# Visual Studio / JetBrains Rider 関連（環境依存なのでGit管理不要）
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+# OSの不要ファイルを除外
+.DS_Store
+Thumbs.db

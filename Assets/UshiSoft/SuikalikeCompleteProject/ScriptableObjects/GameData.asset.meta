@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 889522325581c1d4ea0749ffdfe074a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298442
+  packageName: Suikalike Complete Project
+  packageVersion: 1.3.0
+  assetPath: Assets/UshiSoft/SuikalikeCompleteProject/ScriptableObjects/GameData.asset
+  uploadId: 727163

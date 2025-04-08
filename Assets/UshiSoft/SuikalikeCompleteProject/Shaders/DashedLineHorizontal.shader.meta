@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b918f77b08cc23448140e0f89d7a979
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298442
+  packageName: Suikalike Complete Project
+  packageVersion: 1.3.0
+  assetPath: Assets/UshiSoft/SuikalikeCompleteProject/Shaders/DashedLineHorizontal.shader
+  uploadId: 727163

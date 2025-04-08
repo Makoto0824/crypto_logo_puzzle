@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eeaa6537fae20a64db5caaffc5dee8ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298442
+  packageName: Suikalike Complete Project
+  packageVersion: 1.3.0
+  assetPath: Assets/UshiSoft/SuikalikeCompleteProject/PhysicsMaterials/LowFriction.physicsMaterial2D
+  uploadId: 727163
