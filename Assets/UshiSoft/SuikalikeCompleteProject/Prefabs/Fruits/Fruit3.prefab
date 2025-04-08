@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: dbd5225968f9fc7439f4582b539d5c5b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d24108c53ebec45aa8245f1db3013bea, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -198,5 +198,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _score: 6
-  _uiSprite: {fileID: 21300000, guid: dbd5225968f9fc7439f4582b539d5c5b, type: 3}
+  _uiSprite: {fileID: 21300000, guid: d24108c53ebec45aa8245f1db3013bea, type: 3}
   _combineParticlePrefab: {fileID: 8239612350030294992, guid: 25c30b53ed488d34da551349cbc17870, type: 3}
