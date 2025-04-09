@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: be6f5c6a70c989e4eaa1baab6842e540
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298442
+  packageName: Suikalike Complete Project
+  packageVersion: 1.3.0
+  assetPath: Assets/UshiSoft/SuikalikeCompleteProject/Sprites/Return.png
+  uploadId: 727163
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -9,7 +16,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -74,7 +81,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -167,10 +174,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 298442
-  packageName: Suikalike Complete Project
-  packageVersion: 1.3.0
-  assetPath: Assets/UshiSoft/SuikalikeCompleteProject/Sprites/Return.png
-  uploadId: 727163

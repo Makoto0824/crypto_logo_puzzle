@@ -60,6 +60,7 @@ namespace UshiSoft
             _bgmAudioSource = gameObject.AddComponent<AudioSource>();
             _bgmAudioSource.playOnAwake = false;
             _bgmAudioSource.loop = true;
+            _bgmAudioSource.volume = 0.5f;
 
             SEMute = Settings.SEMute;
             BGMMute = Settings.BGMMute;
@@ -86,11 +87,13 @@ namespace UshiSoft
             var ac = GetAudioClipByName(name);
             if (ac == null)
             {
+                Debug.LogWarning($"BGM clip not found: {name}");
                 return;
             }
 
             _bgmAudioSource.clip = ac;
             _bgmAudioSource.Play();
+            Debug.Log($"Playing BGM: {name}");
         }
 
         private AudioClip GetAudioClipByName(string name)
